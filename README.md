@@ -8,17 +8,3 @@ The events of frauds are growing increasingly day by day and are more targeted t
 
 Additional information on the dataset can be found [here](https://www.kaggle.com/ntnu-testimon/paysim1).
 
----
-
-## Project Directory
-
-```
-.
-├── Report File
-│   └── Report.pdf
-├── Data
-│   └── archive.zip
-├── src
-    ├── Fraud Detection using Data Sampling Methods.ipynb
-    └── requirements.txt
-```
